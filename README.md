@@ -1,2 +1,6 @@
 # hello-world
-This is a test to setup a new repository.
+
+Hello World!
+
+Amy here. I love coding and creating awesome code.
+I am learning how to use GitHub as a repositiory for development.
